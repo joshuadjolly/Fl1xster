@@ -2,7 +2,7 @@
 
 Submitted by: **Your Name Here**
 
-**Fli1xter** is a movie browsing app that allows users to browse movies currently playing in theaters.
+**Fl1xter** is a movie browsing app that allows users to browse movies currently playing in theaters.
 
 Time spent: **11** hours spent in total
 
